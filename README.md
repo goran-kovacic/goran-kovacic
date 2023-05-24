@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Learning Java @ [Edunova](https://www.edunova.hr/)
+
 <!--
 **goran-kovacic/goran-kovacic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
